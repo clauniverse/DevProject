@@ -1,0 +1,36 @@
+h1{
+  color: black;
+}
+
+img {
+  width: 150px;
+  height:150px;
+}
+
+.header {
+  text-align: center;
+  background: #ef017c;
+background: -moz-linear-gradient(top, #ef017c 0%, #ff5db1 99%);
+background: -webkit-linear-gradient(top, #ef017c 0%,#ff5db1 99%);
+background: linear-gradient(to bottom, #ef017c 0%,#ff5db1 99%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef017c', endColorstr='#ff5db1',GradientType=0 );
+}
+
+body{
+  font-family: Georgia;
+  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/selga.png');
+}
+
+.aboout-me {
+  font-size: 20px;
+  opacity: 0.5;
+}
+
+.title {
+  font-weight: bold;
+  color: hotpink;
+}
+
+#content{
+  margin:0 auto;
+}
